@@ -5,7 +5,7 @@ In this project, I executed an end-to-end data engineering project focused on re
 ## Architecture
 The project architecture encompasses real-time data streaming, storage, and analysis through the following technologies:
 ## Architecture Diagram
-<img src="Architecture.jpeg">
+<img src="Architecture.jpg">
 
 ## Technologies Used and Their Roles
 ### Programming Language - Python
